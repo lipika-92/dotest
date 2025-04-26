@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-b
-=======
-this is b
-
->>>>>>> bike
+ball
